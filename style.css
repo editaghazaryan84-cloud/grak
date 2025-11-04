@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+}
+.nav{
+    box-shadow: 0 0 10px rgb(127, 127, 127);
+    display: flex;
+    background:rgba(255, 255, 255, 0.5) ;
+    padding: 25px 0;
+    width: 63%;
+    border-radius: 20px;
+   margin-left: 251px;
+}
+.voskanyan{
+    background-image: url(https://images.theconversation.com/files/45159/original/rptgtpxd-1396254731.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    text-align: center;
+    padding: 30px;
+}
+.bible{
+    font-size: 40px;
+    color: #fff;
+}
+.harcer{
+    font-size: 20px;
+     color: #fff;
+}
+.container{
+    background: rgba(82, 65, 29, 0.5);
+    border-radius: 10%;
+    margin:0 28px ;
+    width: 81%;
+    box-shadow: 0 0 10px rgb(128, 128, 128);
+}
+.container1{
+    border-radius: 10%;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+.xumb{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    margin-top: 30px;
+}
+.xumb1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+.button1{
+    display: flex;
+}
+
+.nav_right{
+    background: rgba(82, 65, 29, 0.5);
+    padding: 50px 20px;
+    box-shadow: 0 0 10px rgb(128, 128, 128);
+    border-radius: 10%;
+    margin: 0 29px;
+    }
+.ok1{
+    font-size: 30px;
+    width: 75px;
+    padding: 5px 0;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+    background: #c2c2c2;
+}
+
+.ok2{
+    
+    font-size: 30px;
+    width: 75px;
+    padding: 5px 0;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+}
+.ok3{
+    font-size: 30px;
+    width: 75px;
+    padding: 5px 0;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+}
+.ok4{
+    font-size: 30px;
+    width: 75px;
+    padding: 5px 0;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+}
+.ok5{
+    font-size: 30px;
+    width: 75px;
+    padding: 5px 0;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+}
+.ok6{
+    font-size: 30px;
+    width: 75px;
+    padding: 5px 0;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+}
+.ok7{
+    font-size: 30px;
+    width: 75px;
+    padding: 5px 0;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+}
+.ok8{
+    font-size: 30px;
+    width: 75px;
+    padding: 5px 0;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+}
+.ok9{
+    font-size: 30px;
+    width: 75px;
+    padding: 5px 0;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+}
+.ok10{
+    font-size: 30px;
+    width: 75px;
+    padding: 5px 0;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+}
+.ok11{
+    font-size: 30px;
+    width: 75px;
+    padding: 5px 0;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+}
+.ok12{
+    font-size: 30px;
+    width: 75px;
+    padding: 5px 0;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+}
+.ok13{
+    font-size: 30px;
+    width: 75px;
+    padding: 5px 0;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+}
+.ok14{
+    font-size: 30px;
+    width: 75px;
+    padding: 5px 0;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+}
+.ok15{
+    font-size: 30px;
+    width: 75px;
+    padding: 5px 0;
+    box-shadow: 0 0 10px rgb(164, 164, 164);
+}
+.click{
+    padding: 8px 20px;
+    background: rgb(255, 206, 240);
+    border-radius: 5px;
+    font-size: 20px;
+}
+.click:hover{
+    padding: 8px 20px;
+    background: rgb(255, 163, 227);
+    border-radius: 5px;
+    font-size: 20px;
+}
+.next{
+    padding: 8px 20px;
+    background: rgb(179, 248, 195);
+    border-radius: 5px;
+    font-size: 20px;
+}
+.next:hover{
+    padding: 8px 20px;
+    background: rgb(89, 249, 126);
+    border-radius: 5px;
+    font-size: 20px;
+}
+.lia_right{
+    margin-top: 63px;
+    margin-left: 169px;
+}
+.apple{
+    padding: 20px 10px;
+}
+.www{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 90px;
+    background: rgba(243, 243, 243, 0.5);
+    border-radius: 10px;
+    width: 400px;
+    padding: 20px 0;
+    transition: 0.3s;
+}
+.www:hover{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 90px;
+    background: rgba(31, 255, 42, 0.5);
+    border-radius: 10px;
+    width: 400px;
+    padding: 20px 0;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    transition: 0.5s;
+}
+.npatak{
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    width: 600px;
+    box-shadow: 0 0 10px rgb(53, 53, 53);
+    background: rgba(247, 190, 68, 0.5);
+    padding: 10px 10px;
+}
