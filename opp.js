@@ -1,7 +1,8 @@
 n = 0
-document.getElementById("okk1").addEventListener("click",()=>{
+document.getElementById("www").addEventListener("click",()=>{
    n = 1
-   document.getElementById("qaryot").style="width:360px;"
+   document.getElementById("qaryot").style="width:369px;"
+   document.getElementById("qaryott").style=""
    document.getElementById("okk1").style="background:rgb(199, 199, 199); border:1px solid rgb(82, 82, 82);box-shadow: 0 0 10px rgb(138, 138, 138);;"
    document.getElementById("patasxanir").innerHTML="1. Որտե՞ղ է ծնվել Սայաթ–Նովան։"
    document.getElementById("patasxanir").style="font-size:20px; color:#fff;"  
@@ -40,7 +41,8 @@ document.getElementById("tarberak4").addEventListener("click",()=>{
 })
 document.getElementById("okk2").addEventListener("click",()=>{
    n = 2
-   document.getElementById("qaryot").style="width:360px;"
+   document.getElementById("qaryott").style=""
+   document.getElementById("qaryot").style="width:369px;"
    document.getElementById("okk2").style="background:rgb(199, 199, 199); border:1px solid rgb(82, 82, 82);box-shadow: 0 0 10px rgb(138, 138, 138);;"
    document.getElementById("patasxanir").innerHTML="2. Ո՞վ էր Սայաթ–Նովան։"
    document.getElementById("patasxanir").style="font-size:20px; color:#fff;"
@@ -194,6 +196,7 @@ document.getElementById("okk12").addEventListener("click",()=>{
    document.getElementById("tarberak4").style="font-size:20px;border:1px solid grey;padding:10px 10px;width:120px;text-align:center;border-radius:10px;background:#fff;"
 })
 document.getElementById("okk13").addEventListener("click",()=>{
+   n=13
       document.getElementById("okk13").style="background:rgb(199, 199, 199); border:1px solid rgb(82, 82, 82);box-shadow: 0 0 10px rgb(138, 138, 138);;"
    document.getElementById("patasxanir").innerHTML="13. Ո՞ր թվականին է էկրան բարձացել «Նռան գույնը» ֆիլմը։"
    document.getElementById("patasxanir").style="font-size:20px; color:#fff;"
@@ -293,9 +296,9 @@ document.getElementById("tarberak3").style="border:1px solid black;font-size:20p
 }
 else if(n == 13){
 document.getElementById("tarberak2").style="border:1px solid black;font-size:20px;padding:10px 10px;width:120px;text-align:center;border-radius:10px;background: rgb(255, 184, 163);"
-document.getElementById("tarberak3").style="border:1px solid black;font-size:20px;padding:10px 10px;width:120px;text-align:center;border-radius:10px;background: rgb(255, 184, 163);"
+document.getElementById("tarberak4").style="border:1px solid black;font-size:20px;padding:10px 10px;width:120px;text-align:center;border-radius:10px;background: rgb(255, 184, 163);"
 document.getElementById("tarberak1").style="border:1px solid black;font-size:20px;padding:10px 10px;width:120px;text-align:center;border-radius:10px;background: rgb(255, 184, 163);"      
-document.getElementById("tarberak4").style="border:1px solid black;font-size:20px;padding:10px 10px;width:120px;text-align:center;border-radius:10px;background: rgb(163, 255, 163);"
+document.getElementById("tarberak3").style="border:1px solid black;font-size:20px;padding:10px 10px;width:120px;text-align:center;border-radius:10px;background: rgb(163, 255, 163);"
 }
 else if(n == 14){
 document.getElementById("tarberak2").style="border:1px solid black;font-size:20px;padding:10px 10px;width:120px;text-align:center;border-radius:10px;background: rgb(255, 184, 163);"
@@ -312,8 +315,7 @@ document.getElementById("qaryotttt").style="display:none;"
 document.getElementById("www").addEventListener("click",() => {
 document.getElementById("npatak").style="display:none;"
 document.getElementById("www").style="display:none;"
-document.getElementById("qaryot").style=""
-document.getElementById("qaryott").style=""
+document.getElementById("qaryot").style="width:370px;"
 document.getElementById("qaryottt").style=""
 document.getElementById("qaryotttt").style=""
 })
