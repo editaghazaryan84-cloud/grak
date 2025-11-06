@@ -225,19 +225,27 @@
  .npatak{
     display: none;
  }
+ .www{
+    transform: scale(0.7);
+ }
+ .xumb{}
+ .container{
+    margin: 0;
+    width: 106%;
+ }
  .nav{
     display: flex;
     gap: 15px;
     flex-direction: column;
-    margin-left: 112px;
+    margin: 0 auto;
+   transform: scale(0.8);
+   padding: 20px;
  }
  .nav_left{
-    width: 100%;
     max-width: 100%;
-    padding: 10px;
-    transform: scale(0.9);
-    transform-origin: top;
-    margin-left: -35px;
+    transform-origin: top ;
+    padding: 10px 0;
+    margin: 0;
 }
 .container1{
     padding: 20px 17px;
@@ -247,18 +255,21 @@
     padding: 10px;
     font-size: 16px;
 }
+.lia_right{
+    margin-top: 20px;
+}
 .nav_right{
     max-width: 100%;
-    transform: scale(0.9);
     transform-origin: top ;
     padding: 10px;
     width: 95%;
     margin: 0;
 }
 .voskanyan{
-    height: 140vh;
+    height: 117vh;
 }
 .row{
     padding: 40px;
+    transform: scale(0.7);
 }
 }
