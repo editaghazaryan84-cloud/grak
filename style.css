@@ -228,7 +228,14 @@
  .www{
     transform: scale(0.7);
  }
- .xumb{}
+ .xumb{
+    padding: 0;
+    transform: scale(0.7);
+ }
+ .xumb1{
+    padding: 0;
+    transform: scale(0.7);
+ }
  .container{
     margin: 0;
     width: 106%;
@@ -249,6 +256,7 @@
 }
 .container1{
     padding: 20px 17px;
+    transform: scale(0.89);
 }
 .tarberak{
     width: 100%;
@@ -257,6 +265,8 @@
 }
 .lia_right{
     margin-top: 20px;
+    transform: scale(0.8);
+    margin: 0 auto;
 }
 .nav_right{
     max-width: 100%;
@@ -266,7 +276,7 @@
     margin: 0;
 }
 .voskanyan{
-    height: 117vh;
+    height: 130vh;
 }
 .row{
     padding: 40px;
